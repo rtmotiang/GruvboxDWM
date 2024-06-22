@@ -34,7 +34,7 @@ git clone https://github.com/NvChad/starter ~/.config/nvim
 ```
 sudo pacman -S lxappearance
 ```
-# Installing DWM, Dmenu amd Slstatus ( I don't use St) ##
+# Installing DWM, Dmenu amd Slstatus (I don't use St) ##
 ```
 cp $HOME/GruvboxDWM/dwm $HOME/.config/
 cp $HOME/GruvboxDWM/dmenu $HOME/.config
@@ -96,6 +96,13 @@ If you are using Zsh then Add the following to the end of ~/.zshrc:
 ```
 eval "$(starship init zsh)"
 ```
+Installing Gruvbox Rainbow Preset 
+```
+cp $HOME/GruvboxDWM/starship/gruvbox-rainbow.toml $HOME/.config/
+cp $HOME/GruvboxDWM/starship/starship.toml $HOME/.config/ 
+```
+
+
 # installing vscode
 ```
 sudo pacman -S code
