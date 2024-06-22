@@ -116,4 +116,13 @@ Theme to install in VScode
 ```
 Gruvbox Material
 ```
+# Basic Shortcuts
+
+| Shotcut keys  | Funtions      |
+| ------------- | ------------- |
+| Super + Q     | quiting apps  |
+| Super + Shift + Q  | Killing DWM  |
+| Super + P     | Dmenu_run |
+| Super + Shift + Enter  | Terminal (Kitty)  |
+
 # Installation has been Completed
