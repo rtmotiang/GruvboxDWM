@@ -1,6 +1,13 @@
 # GruvboxDWM
-My simple minimal and basic Dwm rice 🌱
+🌟 Welcome! 🌟
 
+Hey there! 👋
+
+Welcome to my Gruvbox DWM rice setup! 🎨 I'm a bit of a noob, so there might be some hiccups along the way. 😅 Please try it out in a VM first to avoid any surprises! 🖥️
+
+Hope you enjoy it! ✨
+
+Happy ricing! 🛠️🎉
 # Showcase 💫✨
 ![DWM Showcase](https://github.com/SarthakTechie/GruvboxDWM/blob/main/Preview/240622_14h53m19s_screenshot.png)
 ![DWM Showcase](https://github.com/SarthakTechie/GruvboxDWM/blob/main/Preview/240622_14h45m37s_screenshot.png)
