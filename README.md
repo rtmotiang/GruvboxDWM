@@ -101,8 +101,9 @@ Installing Gruvbox Rainbow Preset
 cp $HOME/GruvboxDWM/starship/gruvbox-rainbow.toml $HOME/.config/
 cp $HOME/GruvboxDWM/starship/starship.toml $HOME/.config/ 
 ```
-
-
+```
+starship preset gruvbox-rainbow -o ~/.config/starship.toml
+```
 # installing vscode
 ```
 sudo pacman -S code
