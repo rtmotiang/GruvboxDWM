@@ -120,7 +120,7 @@ Gruvbox Material
 
 | Shotcut keys  | Funtions      |
 | ------------- | ------------- |
-| Super + Q     | quiting apps  |
+| Super + Q     | Quiting apps or Kill |
 | Super + Shift + Q  | Killing DWM  |
 | Super + P     | Dmenu_run |
 | Super + Shift + Enter  | Terminal (Kitty)  |
