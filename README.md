@@ -28,7 +28,11 @@ cp $HOME/GruvboxDWM/fastfetch/ $HOME/.config/
 # Installing Neovim
 ```
 sudo pacman -S neovim
-git clone https://github.com/NvChad/starter ~/.config/nvim 
+git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
+```
+For neovim themes do space + t + h
+```
+gruvbox
 ```
 # Installing lxappearance 
 ```
