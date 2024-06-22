@@ -12,7 +12,7 @@ sudo pacman -Syyu
 
 # Installing essentials
 ```
-sudo pacman -S wget curl
+sudo pacman -S base-devel git libx11 libxft xorg-server xorg-xinit terminus-font wget curl
 ```
 # Installing JetBrainsMono Nerd Fonts
 ```
