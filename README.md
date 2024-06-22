@@ -27,7 +27,7 @@ sudo pacman -S base-devel git libx11 libxft xorg-server xorg-xinit terminus-font
 ```
 # Installing JetBrainsMono and Awesome Fonts 📝
 ```
-sudo pacman -S ttf-jetbrains-mono-nerd 3.2.1-2 ttf-font-awesome 6.5.2-1
+sudo pacman -S ttf-jetbrains-mono-nerd ttf-font-awesome 
 ```
 # Installing kitty 🐱‍💻
 ```
