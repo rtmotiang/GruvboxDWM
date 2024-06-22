@@ -41,6 +41,9 @@ gruvbox
 ```
 sudo pacman -S lxappearance
 ```
+```
+ Icon theme --> Install --> select $HOME/GruvboxDWM/gruvbox-plus-icon-pack.5.4.tar.gz
+```
 # Installing DWM, Dmenu amd Slstatus (I don't use St) ##
 ```
 cp $HOME/GruvboxDWM/dwm $HOME/.config/
