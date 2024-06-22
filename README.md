@@ -13,7 +13,7 @@ Cheers! 🥳🍀
 
 Happy ricing! 🛠️🎉
 # Showcase 💫✨
-![DWM Showcase](https://github.com/SarthakTechie/GruvboxDWM/blob/main/Preview/240622_14h53m19s_screenshot.png)
+![DWM Showcase](https://github.com/SarthakTechie/GruvboxDWM/blob/main/240622_19h41m15s_screenshot.png)
 ![DWM Showcase](https://github.com/SarthakTechie/GruvboxDWM/blob/main/Preview/240622_14h45m37s_screenshot.png)
 
 # Updating your system 🔧
