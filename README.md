@@ -107,6 +107,9 @@ starship preset gruvbox-rainbow -o ~/.config/starship.toml
 # installing vscode
 ```
 sudo pacman -S code
-Theme to install Gruvbox Material
+```
+Theme to install in VScode
+```
+Gruvbox Material
 ```
 # Installation has been Completed
