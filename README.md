@@ -1,6 +1,8 @@
 # GruvboxDWM
 My Dwm simple and basic rice 🌱
 
+# Preview
+
 # Updating your system
 
 ```
