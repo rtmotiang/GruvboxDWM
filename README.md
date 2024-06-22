@@ -84,10 +84,15 @@ cd $HOME/GruvboxDWM/pfetch
 make 
 sudo make install
 ```
-# installing hsetroot
+# installing hsetroot for wallpaper
 ```
 sudo pacman -S hsetroot
 ```
+# you can also use nitrogen as an alternative
+```
+sudo pacman -S nitrogen
+```
+
 # installing starship
 ```
 curl -sS https://starship.rs/install.sh | sh
