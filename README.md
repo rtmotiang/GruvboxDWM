@@ -87,6 +87,15 @@ sudo pacman -S hsetroot
 ```
 curl -sS https://starship.rs/install.sh | sh
 ```
+Add the following to the end of ~/.bashrc:
+```
+eval "$(starship init bash)"
+```
+
+If you are using Zsh then Add the following to the end of ~/.zshrc:
+```
+eval "$(starship init zsh)"
+```
 # installing vscode
 ```
 sudo pacman -S code
