@@ -74,9 +74,7 @@ mkdir /usr/share/xsessions/
 cp $HOME/GruvboxDWM/dwm.desktop /usr/share/xsessions/
 ```
 ## DWM, Dmenu and Slstatus installation completed ##
-```
-cd $HOME 
-```
+
 # installing pfetch
 ```
 cd $HOME/GruvboxDWM/pfetch
