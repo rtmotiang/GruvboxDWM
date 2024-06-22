@@ -2,7 +2,7 @@
 My Dwm simple and basic rice 🌱
 
 # Preview
-
+https://github.com/SarthakTechie/GruvboxDWM/blob/main/Preview/240622_14h45m37s_screenshot.png
 # Updating your system
 
 ```
