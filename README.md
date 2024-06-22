@@ -1,6 +1,12 @@
 # GruvboxDWM
 My Dwm simple and basic rice 🌱
+
 # Updating your system
+```
+function test() {
+  console.log("sudo pacman -Syyu");
+}
+```
 sudo pacman -Syyu
 
 # Installing essentials
