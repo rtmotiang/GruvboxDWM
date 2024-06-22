@@ -14,9 +14,9 @@ sudo pacman -Syyu
 ```
 sudo pacman -S base-devel git libx11 libxft xorg-server xorg-xinit terminus-font wget curl
 ```
-# Installing JetBrainsMono Nerd Fonts 📝
+# Installing JetBrainsMono and Awesome Fonts 📝
 ```
-sudo pacman -S ttf-jetbrains-mono-nerd 3.2.1-2
+sudo pacman -S ttf-jetbrains-mono-nerd 3.2.1-2 ttf-font-awesome 6.5.2-1
 ```
 # Installing kitty 🐱‍💻
 ```
