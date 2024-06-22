@@ -126,4 +126,4 @@ Gruvbox Material
 | Super + P     | Dmenu_run |
 | Super + Shift + Enter  | Terminal (Kitty)  |
 
-# Installation has been Completed
+# congratulation Installation has been Completed!
