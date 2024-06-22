@@ -1,34 +1,40 @@
 # GruvboxDWM
-My Dwm simple and basic rice 🌱
+My simple minimal and basic Dwm rice 🌱
 
-# Showcase
+# Showcase 💫✨
 ![DWM Showcase](https://github.com/SarthakTechie/GruvboxDWM/blob/main/Preview/240622_14h53m19s_screenshot.png)
 ![DWM Showcase](https://github.com/SarthakTechie/GruvboxDWM/blob/main/Preview/240622_14h45m37s_screenshot.png)
 
-# Updating your system
+# Updating your system 🔧
 ```
 sudo pacman -Syyu
 ```
 
-# Installing essentials
+# Installing essentials 💾
 ```
 sudo pacman -S base-devel git libx11 libxft xorg-server xorg-xinit terminus-font wget curl
 ```
-# Installing JetBrainsMono Nerd Fonts
+# Installing JetBrainsMono Nerd Fonts 📝
 ```
 sudo pacman -S ttf-jetbrains-mono-nerd 3.2.1-2
 ```
-# Installing kitty
+# Installing kitty 🐱‍💻
 ```
 sudo pacman -S kitty
 cp $HOME/GruvboxDWM/kitty/ $HOME/.config
 ```
-# Installing FastFetch
+# Installing FastFetch & Pfetch 📊
 ```
 sudo pacman -S fastfetch
 cp $HOME/GruvboxDWM/fastfetch/ $HOME/.config/
 ```
-# Installing Neovim
+```
+cd $HOME/GruvboxDWM/pfetch
+make 
+sudo make install
+```
+
+# Installing Neovim ✍️
 ```
 sudo pacman -S neovim
 git clone https://github.com/NvChad/starter ~/.config/nvim && nvim
@@ -37,14 +43,14 @@ For neovim themes do space + t + h
 ```
 gruvbox
 ```
-# Installing lxappearance 
+# Installing lxappearance 🗂️
 ```
 sudo pacman -S lxappearance
 ```
 ```
  Icon theme --> Install --> select $HOME/GruvboxDWM/gruvbox-plus-icon-pack.5.4.tar.gz
 ```
-# Installing DWM, Dmenu amd Slstatus (I don't use St) ##
+# Installing DWM, Dmenu amd Slstatus 📥 
 ```
 cp $HOME/GruvboxDWM/dwm $HOME/.config/
 cp $HOME/GruvboxDWM/dmenu $HOME/.config
@@ -79,24 +85,18 @@ cd ..
 mkdir /usr/share/xsessions/ 
 cp $HOME/GruvboxDWM/dwm.desktop /usr/share/xsessions/
 ```
-## DWM, Dmenu and Slstatus installation completed ##
+## DWM, Dmenu and Slstatus installation completed ☑️
 
-# installing pfetch
-```
-cd $HOME/GruvboxDWM/pfetch
-make 
-sudo make install
-```
-# installing hsetroot for wallpaper
+# installing hsetroot for wallpaper 🖼️
 ```
 sudo pacman -S hsetroot
 ```
-# you can also use nitrogen as an alternative
+# you can also use nitrogen as an alternative 
 ```
 sudo pacman -S nitrogen
 ```
 
-# installing starship
+# installing starship 🚀
 ```
 curl -sS https://starship.rs/install.sh | sh
 ```
@@ -117,7 +117,7 @@ cp $HOME/GruvboxDWM/starship/starship.toml $HOME/.config/
 ```
 starship preset gruvbox-rainbow -o ~/.config/starship.toml
 ```
-# installing vscode
+# installing vscode </>
 ```
 sudo pacman -S code
 ```
@@ -125,7 +125,7 @@ Theme to install in VScode
 ```
 Gruvbox Material
 ```
-# Basic Shortcuts
+# Basic Shortcuts ⌨
 
 | Shotcut keys  | Funtions      |
 | ------------- | ------------- |
