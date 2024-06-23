@@ -53,6 +53,16 @@ For neovim themes do space + t + h
 ```
 gruvbox
 ```
+
+# Installing SuperFile 📁
+```
+bash -c "$(wget -qO- https://superfile.netlify.app/install.sh)"
+```
+change theme = 'gruvbox' ~/.config/superfile/config.toml
+```
+to run super file type 'spf'
+
+```
 # Installing lxappearance 🗂️
 ```
 sudo pacman -S lxappearance
