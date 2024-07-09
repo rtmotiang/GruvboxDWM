@@ -127,8 +127,8 @@ eval "$(starship init zsh)"
 ```
 Installing Gruvbox Rainbow Preset 
 ```
-cp -r $HOME/GruvboxDWM/starship/gruvbox-rainbow.toml $HOME/.config/
-cp -r $HOME/GruvboxDWM/starship/starship.toml $HOME/.config/ 
+cp -r $HOME/GruvboxDWM/gruvbox-rainbow.toml $HOME/.config/
+cp -r $HOME/GruvboxDWM/starship.toml $HOME/.config/ 
 ```
 ```
 starship preset gruvbox-rainbow -o ~/.config/starship.toml
