@@ -150,6 +150,10 @@ Gruvbox Material
 | Super + P     | Dmenu_run |
 | Super + Shift + Enter  | Terminal (Kitty)  |
 
+# Install Script 📜
+```
+Work in progress 🏗️
+```
 ## License
 
 This project is licensed under the MIT License.
