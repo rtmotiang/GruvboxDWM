@@ -153,6 +153,7 @@ Gruvbox Material
 # Install Script 📜
 ```
 Work in progress 🏗️
+Update: Its currently in testing on VMs
 ```
 ## License
 
