@@ -23,11 +23,11 @@ sudo pacman -Syyu
 
 # Installing essentials 💾
 ```
-sudo pacman -S base-devel git libx11 libxft xorg-server xorg-xinit terminus-font wget curl
+sudo pacman -S base-devel git libx11 libxft xorg-server xorg-xinit wget curl
 ```
-# Installing JetBrainsMono and Awesome Fonts 📝
+# Installing Fonts 📝
 ```
-sudo pacman -S ttf-jetbrains-mono-nerd ttf-font-awesome 
+sudo pacman -S terminus-font ttf-jetbrains-mono-nerd ttf-font-awesome 
 ```
 # Installing kitty 🐱‍💻
 ```
