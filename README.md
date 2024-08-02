@@ -87,11 +87,11 @@ sudo make install
 cd ..
 ```
 ```
-cd /dmenu/
+cd dmenu/
 sudo make install
 ```
 ```
-cd /slstatus/
+cd slstatus/
 sudo make install
 ```
 ```
