@@ -22,7 +22,7 @@ static const char *colors[][3]      = {
 };
 
 static const char *const autostart[] = {
-			"hsetroot", "-center", "$HOME/GruvboxSimpleDWM/gruvbox-wallpaper/gnu.jpg", NULL,
+			"nitrogen", "--restore",
 		        "slstatus", NULL,
 	                NULL		
 };
