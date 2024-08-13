@@ -107,7 +107,7 @@ sudo cp -r $HOME/GruvboxDWM/dwm.desktop /usr/share/xsessions/
 ```
 sudo pacman -S hsetroot
 ```
-# you can also use nitrogen as an alternative 
+# you can also use nitrogen as an alternative (That's what I use)
 ```
 sudo pacman -S nitrogen
 ```
